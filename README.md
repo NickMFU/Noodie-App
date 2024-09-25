@@ -1,16 +1,10 @@
-# noodie_1
+Noodie-App
+
 
 A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+ Noodie is an app for viewing Korean instant noodles. You can view information and reviews within the app by letting users review. The app also generates revenue by partnering with stores that sell these instant noodles, allowing users to collect coupons within the app for discounts on products in participating stores.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+ <br/>Build With : Flutter , Firebase
