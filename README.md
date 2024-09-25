@@ -1,6 +1,6 @@
-Noodie-App
+#Noodie-App
 
-
+![Project Logo](https://github.com/NickMFU/NYT-Tracking-App/blob/main/Mobile%20App.png)
 A new Flutter project.
 
 ## Getting Started
