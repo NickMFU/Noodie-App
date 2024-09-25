@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "138251259733",
+    "project_id": "noodie-d040f",
+    "storage_bucket": "noodie-d040f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:138251259733:android:0aaaf880f0c92ab8b3a9dc",
+        "android_client_info": {
+          "package_name": "com.example.noodie_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMaGbjaMsQav56S2zcscgz5IG0hPREp9s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
